@@ -1,4 +1,4 @@
-baseURL = "http://example.org/"
+baseURL = "http://www.christophliedtke.com/"
 languageCode = "en-us"
 title = "HCL | Life History Evolution"
 theme = "timer-hugo"
@@ -47,7 +47,7 @@ author = "Christoph Liedtke"
 # Google Analitycs
 googleAnalitycsID = "Your ID"
 # contact form action
-contactFormAction = "#" # contact form works with https://formspree.io
+contactFormAction = "https://formspree.io/f/xqkwqaaw" # contact form works with https://formspree.io
 
 # Banner Section
 [params.banner]

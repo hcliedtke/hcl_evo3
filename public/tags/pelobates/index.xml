@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>pelobates on HCL | Life History Evolution</title>
+    <link>http://www.christophliedtke.com/tags/pelobates/</link>
+    <description>Recent content in pelobates on HCL | Life History Evolution</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 12 Jul 2018 00:00:00 +0000</lastBuildDate><atom:link href="http://www.christophliedtke.com/tags/pelobates/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Developmental Plasticity</title>
+      <link>http://www.christophliedtke.com/portfolio/pc_transcriptomics/</link>
+      <pubDate>Thu, 12 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.christophliedtke.com/portfolio/pc_transcriptomics/</guid>
+      <description>Larval Plasticity Developmental plasticity is a common adaptation to environmental heterogeneity and understanding the evolution of such plasticity is an important goal in evolutionary biology. Amphibian larvae are usually capable of accelerating their development in response to pond drying to avoid desiccation risk, with the Western Spadefoot toad (Pelobates cultripes) being an extreme example. This species can accelerate its development by more than 30%! The Gomez Mestre Group is currently working on uncovering the gene regulatory network underlying this plasticity, by experimentally induce early development through simulated pond drying and screen the transcriptome for differentially expressed genes.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>CV on HCL | Life History Evolution</title>
+    <link>http://www.christophliedtke.com/tags/cv/</link>
+    <description>Recent content in CV on HCL | Life History Evolution</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 19 May 2021 12:27:38 +0600</lastBuildDate><atom:link href="http://www.christophliedtke.com/tags/cv/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Full CV</title>
+      <link>http://www.christophliedtke.com/cv/curr_vit/</link>
+      <pubDate>Wed, 19 May 2021 12:27:38 +0600</pubDate>
+      
+      <guid>http://www.christophliedtke.com/cv/curr_vit/</guid>
+      <description>I am an evolutionary biologist currently based at the Biological Station of Doñana, in Spain. Read my full CV here.</description>
+    </item>
+    
+  </channel>
+</rss>
