@@ -1,0 +1,13 @@
+enable  : true
+contactFormTitle    : CONTACT ME
+contactFormSubtitle : >
+  For questions about my research, R code or photography, drop me a lin!
+mapTitle    : FIND ME
+mapSubtitle : >
+  I currently work at the Biological Station of Doñana in Seville, Spain.
+officeAddress1 : Calle Américo Vespucio 26, 41092 Seville
+#officeAddress2 : 925, Lab Street, San Fransisco, United State 90278
+mail1 : christoph.liedtke@ebd.csic.es
+#mail2 : info@timer.com
+#phone1: +07 052 245 022
+#phone2: +07 052 245 025

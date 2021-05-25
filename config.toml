@@ -1,0 +1,109 @@
+baseURL = "http://example.org/"
+languageCode = "en-us"
+title = "HCL | Life History Evolution"
+theme = "timer-hugo"
+
+# We Used Ionicons Icon font for Icon, for more details check this link - https://ionicons.com/
+
+# Navbar Menus
+[[menu.main]]
+name    = "Projects"
+url     = "portfolio"
+weight  = 1
+[[menu.main]]
+name    = "Publications"
+url     = "about"
+weight  = 2
+[[menu.main]]
+name    = "CV"
+url     = "cv"
+weight  = 3
+[[menu.main]]
+name    = "R code"
+url     = "https://hcliedtke.github.io/R-scrapheap/"
+target =  "_blank"
+weight  = 4
+[[menu.main]]
+name    = "Field Blog"
+url     = "blog"
+weight  = 5
+[[menu.main]]
+name    = "Wildlife"
+url     = "gallery"
+weight  = 6
+[[menu.main]]
+name    = "Contact"
+url     = "contact"
+weight  = 7
+
+# Site Params
+[params]
+home = "Home"
+logo = "images/hcl_logo2.png"
+dateFormat = "6 January 2006"
+# Meta data
+description = "HCL logo"
+author = "Christoph Liedtke"
+# Google Analitycs
+googleAnalitycsID = "Your ID"
+# contact form action
+contactFormAction = "#" # contact form works with https://formspree.io
+
+# Banner Section
+[params.banner]
+enable  = true
+bgImage = "images/leptopelis_banner.jpg"
+heading = "Amphibian"
+description = ""
+# button
+btn     = false
+btnText = "Find out more"
+btnURL  = "/gallery/"
+
+# flip text
+[[params.banner.flipText]]
+title   = "Evolution"
+[[params.banner.flipText]]
+title   = "Life History"
+[[params.banner.flipText]]
+title   = "Eco-Evo-Devo"
+[[params.banner.flipText]]
+title   = "Transcriptomics"
+[[params.banner.flipText]]
+title   = "Systematics"
+[[params.banner.flipText]]
+title   = "Photography"
+
+# Homepage About Section
+[params.about]
+enable  = true
+title   = "ABOUT ME"
+content = "I am a Juan de la Cierva postdoctoral researcher at the Estación Biológica de Doñana, in Seville, Spain as part of Ivan Gomez-Mestre's <a href='https://www.eco-evo-devo.com/' target='_blank'>Ecology, Evolution and Development Group</a>. My current research is focused on uncovering the (epi)genomic networks controlling developmental plasticity in amphibians and the evolution of reproductive modes. I completed my PhD at the University of Basel in Switzerland supervised by <a href='https://www.nhm.ac.uk/our-science/departments-and-staff/staff-directory/simon-loader.html' target='_blank'>Simon Loader</a> and <a href='https://scholar.google.com/citations?user=Cj0pBIEAAAAJ&hl=en' target='_blank'>Hendrik Müller</a>, studying the accumulation of amphibian lineages in Africa and whether aspects of life history (specifically terrestrial breeding) has evolved in response to specific environmental conditions."
+image   = "images/about/hcl_profile.jpg"
+
+# Call to Action
+[params.cta]
+enable  = false
+title   = "SO WHAT YOU THINK ?"
+content = "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nobis,<br>possimus commodi, fugiat magnam temporibus vero magni recusandae? Dolore, maxime praesentium."
+btnText = "Contact with me"
+btnURL  = "/contact"
+
+# Portfolio Section On Homepage
+[params.portfolio]
+enable  = true
+title   = "Featured Projects"
+subtitle= ""
+
+# social icon
+#[[params.socialIcon]]
+#icon = "ion-social-facebook"
+#url = "#"
+#
+#[[params.socialIcon]]
+#icon = "ion-social-instagram"
+#url = "#"
+#
+#[[params.socialIcon]]
+#icon = "ion-social-linkedin"
+#url = "#"

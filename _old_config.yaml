@@ -1,0 +1,74 @@
+baseURL: http://example.org/
+languageCode: en-us
+title: HCL | Life History Evolution
+theme: timer-hugo
+menu:
+  main:
+    - name: Home
+      url: /
+      weight: 1
+    - name: About
+      url: about
+      weight: 2
+    - name: Projects
+      url: service
+      weight: 3
+    - name: CV
+      url: cv
+      weight: 4
+    - name: Wildlife
+      url: gallery
+      weight: 5
+    - name: R Code
+      url: blog
+      weight: 6
+    - name: Contact
+      url: contact
+      weight: 7
+params:
+  about:
+    content: I am a Juan de la Cierva postdoctoral researcher at the Estación Biológica de Doñana, in Seville, Spain as part of Ivan Gomez-Mestre's Ecology, Evolution and Development Group.   My current research is focused on uncovering the (epi)genomic networks controlling developmental plasticity in amphibians and the evolution of reproductive modes.
+             I completed my PhD at the University of Basel in Switzerland supervised by Simon Loader and Hendrik Müller (University of Jena), studying the accumulation of amphibian lineages in Africa and whether aspects of life history (specifically terrestrial breeding) has evolved in response to specific environmental conditions.
+    enable: yes
+    image: images/about/about.jpg
+    title: ABOUT ME
+  author: Themefisher
+  banner:
+    bgImage: images/slider.jpg
+    btn: yes
+    btnText: Find out more
+    btnURL: /gallery/
+    description:
+    enable: yes
+    flipText:
+      - title: Evolution
+      - title: Life history
+      - title: Eco-Evo-Devo
+      - title: Transcriptomics
+      - title: Systematics
+      - title: Photography
+    heading: Amphibian
+  contactFormAction: '#'
+  cta:
+    btnText: Contact me
+    btnURL: /contact
+    content: Drop me a line if you want to find out more.
+    enable: no
+    title: SO WHAT YOU THINK ?
+  dateFormat: 6 January 2006
+  description: Airspace Hugo theme
+  googleAnalitycsID: Your ID
+  home: Home
+  logo: images/logo.png
+  portfolio:
+    enable: yes
+    subtitle:
+    title: Featured Projects
+  socialIcon:
+    enable: yes
+    - icon: ion-social-facebook
+      url: '#'
+    - icon: ion-social-instagram
+      url: '#'
+    - icon: ion-social-linkedin
+      url: '#'
