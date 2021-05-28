@@ -1,3 +1,13 @@
+/* NAVBAR */
+
+
+.navbar-brand {
+    position: relative;
+    width: 170px;
+    left: 15px;
+    background-size: contain;
+}
+
 /* BUTTONS */
 
 .blog-content .btn-details {

@@ -39,7 +39,7 @@ weight  = 7
 # Site Params
 [params]
 home = "Home"
-logo = "images/hcl_logo2.png"
+logo = "images/hcl_logo.png"
 dateFormat = "6 January 2006"
 # Meta data
 description = "HCL logo"
