@@ -1,0 +1,23 @@
+enable  : true
+title   : Publication Record
+description: >
+  <a href="/dashboards/flex_pubs.html" target="_blank" class="btn btn-dafault btn-details hvr-bounce-to-right">Explore Publications Interactively</a>
+  <br>
+  <br>
+  ..or check out my <a href="https://scholar.google.es/citations?user=Mke2CrAAAAAJ&hl=en" target="_blank">google scholar profile</a> for the most up-to-date list of my publications.
+  <br>
+  <br>
+
+image   : images/about/google_scholar.jpg
+#aboutItem:
+#  - title : Why Choose Us
+#    description: >
+#      Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas.
+#
+#  - title : What You Get
+#    description: >
+#      Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas.
+#
+#  - title : Meet The Energy
+#    description: >
+#      Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas.

@@ -7,34 +7,37 @@ theme = "timer-hugo"
 
 # Navbar Menus
 [[menu.main]]
-name    = "Projects"
-url     = "portfolio"
+name    = "Home"
+url     = "/"
 weight  = 1
 [[menu.main]]
-name    = "Publications"
-url     = "about"
+name    = "Projects"
+url     = "portfolio"
 weight  = 2
+[[menu.main]]
+name    = "Publications"
+url     = "publications"
+weight  = 3
 [[menu.main]]
 name    = "CV"
 url     = "cv"
-weight  = 3
+weight  = 4
 [[menu.main]]
 name    = "R code"
 url     = "https://hcliedtke.github.io/R-scrapheap/"
-target =  "_blank"
-weight  = 4
+weight  = 5
 [[menu.main]]
 name    = "Field Blog"
 url     = "blog"
-weight  = 5
+weight  = 6
 [[menu.main]]
 name    = "Wildlife"
 url     = "gallery"
-weight  = 6
+weight  = 7
 [[menu.main]]
 name    = "Contact"
 url     = "contact"
-weight  = 7
+weight  = 8
 
 # Site Params
 [params]
@@ -78,7 +81,7 @@ title   = "Photography"
 [params.about]
 enable  = true
 title   = "ABOUT ME"
-content = "I am a Juan de la Cierva postdoctoral researcher at the Estación Biológica de Doñana, in Seville, Spain as part of Ivan Gomez-Mestre's <a href='https://www.eco-evo-devo.com/' target='_blank'>Ecology, Evolution and Development Group</a>. My current research is focused on uncovering the (epi)genomic networks controlling developmental plasticity in amphibians and the evolution of reproductive modes. I completed my PhD at the University of Basel in Switzerland supervised by <a href='https://www.nhm.ac.uk/our-science/departments-and-staff/staff-directory/simon-loader.html' target='_blank'>Simon Loader</a> and <a href='https://scholar.google.com/citations?user=Cj0pBIEAAAAJ&hl=en' target='_blank'>Hendrik Müller</a>, studying the accumulation of amphibian lineages in Africa and whether aspects of life history (specifically terrestrial breeding) has evolved in response to specific environmental conditions."
+content = "I am a Juan de la Cierva postdoctoral researcher at the Estación Biológica de Doñana, in Seville, Spain as part of Ivan Gomez-Mestre's <a href='https://www.eco-evo-devo.com/' target='_blank'>Ecology, Evolution and Development Group</a>. My current research is focused on uncovering the transcriptomic and epigenetic mechanisms controlling developmental plasticity in amphibians and the evolution of reproductive modes. I completed my PhD at the University of Basel in Switzerland supervised by <a href='https://www.nhm.ac.uk/our-science/departments-and-staff/staff-directory/simon-loader.html' target='_blank'>Simon Loader</a> and <a href='https://scholar.google.com/citations?user=Cj0pBIEAAAAJ&hl=en' target='_blank'>Hendrik Müller</a>, studying the accumulation of amphibian lineages in Africa and whether aspects of life history (specifically terrestrial breeding) has evolved in response to specific environmental conditions."
 image   = "images/about/hcl_profile.jpg"
 
 # Call to Action
@@ -107,3 +110,9 @@ subtitle= ""
 #[[params.socialIcon]]
 #icon = "ion-social-linkedin"
 #url = "#"
+
+# allow raw html in markdown index_files
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true

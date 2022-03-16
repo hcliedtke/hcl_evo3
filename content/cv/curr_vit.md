@@ -7,38 +7,26 @@ tags: "CV"
 title: Full CV
 summary: "I am an evolutionary biologist currently based at the Biological Station of Doñana, in Spain. Read my full CV here."
 ---
+<br></br>
 ## Past and Present Positions
-__01.02.2017–Present__  
-Postdoctoral Researcher (Juan de la Cierva Scholar 2020-2023)
-Estación Biológica de Doñana, CSIC, Spain  
-__01.05.2015–31.10.2016__  
-Postdoctoral Researcher (SNF Early Postdoc.Mobility fellowship)
-Estación Biológica de Doñana, CSIC, Spain  
-__01.01.2015–30.04.2015__  
-Postdoctoral Researcher
-University of Basel, Switzerland  
-__1.02.2011–11.07.2014__  
-Predoctoral Researcher (doctoral candidate, SNF funded project)
-University of Basel, Switzerland  
+<br></br>
+
+Date | Position | Distinction | Location
+:--|:--|:--|:--
+__01.02.2017–Present__ |  Postdoctoral Researcher | Juan de la Cierva Scholar 2020-2023 | Estación Biológica de Doñana, CSIC, Spain  
+__01.05.2015–31.10.2016__  | Postdoctoral Researcher | SNF Early Postdoc.Mobility fellowship | Estación Biológica de Doñana, CSIC, Spain  
+__01.01.2015–30.04.2015__ | Postdoctoral Researcher | | University of Basel, Switzerland
+__1.02.2011–11.07.2014__  | Predoctoral Researcher (doctoral candidate) | SNF funded project | University of Basel, Switzerland  
+
+<br></br>
 ## Higher Education
-__01.02.2011–11.07.2014__     
-Doctor of Philosophy (Ph.D.)  
-University of Basel, Switzerland  
-Zoology: summa cum laude  
-_Supervised by:_  
-Dr. Simon P. Loader  
-Dr. Hendrik Müller  
-Prof. Dr. Peter Nagel  
-__01.02.2009–20.12.2010__  
-Master of Science (M.Sc.)  
-Lund University, Sweden  
-Biology with Specialization in Ecology: Pass with Distinction  
-__01.09.2005–01.08.2008__  
-Bachelor of Science (B.Sc.)  
-University College London, United Kingdom  
-__15.09.2003–01.08.2005__  
-International Baccalaureate (IB)  
-International School of Penang. Malaysia
+<br></br>
+Date | Position | Distinction | Location | Details
+:--|:--|:--|:--|:--
+__01.02.2011–11.07.2014__ | Doctor of Philosophy (Ph.D.)  | Zoology: summa cum laude  | University of Basel, Switzerland | _Supervised by:_ [Dr. Simon P. Loader](https://www.nhm.ac.uk/our-science/departments-and-staff/staff-directory/simon-loader.html), [Dr. Hendrik Müller](http://www.direct-development.org/), [Prof. Dr. Peter Nagel](https://duw.unibas.ch/en/research-groups/geoecology/staff/peter-nagel/)  
+__01.02.2009–20.12.2010__ | Master of Science (M.Sc.) | Biology with Specialization in Ecology: Pass with Distinction | Lund University, Sweden |
+__01.09.2005–01.08.2008__ | Bachelor of Science (B.Sc.) | Upper Second-class Honours (2:1)| University College London, United Kingdom  
+__15.09.2003–01.08.2005__ | International Baccalaureate (IB) | | International School of Penang. Malaysia
 
 <br></br>
 ## Further Training
@@ -67,13 +55,17 @@ Date | Type | Description
 
 Date | Type | Description
 :--|:--|:--
+24.06.2021 | [Seminar](https://youtu.be/TbVY0cy0A1c) | Estación Biológica de Doñana-CSIC, Seville, Spain
+30.04.2021 | Presentation | Sevinomics Spring Meeting 2021, Sevilla, Spain
+05.02.2020 | [Poster](/images/cv/sesbe2020_poster.pdf) | Sociedad Española de Biología Evolutiva conference, Sevilla, Spain
+22.11.2019 | [Seminar](https://youtu.be/oART-pW0mAg) | LEM days: Estación Biológica de Doñana-CSIC, Seville, Spain
 01.04.2019 | Conference Presentation | Evolution Evolving, Cambridge, UK
 29.11.2018 | Invited speaker | University of Braunschweig, Germany
-20.08.2017 | Poster | European Society for Evolutionary Biology meeting 2017, Groningen, Netherlands
+20.08.2017 | [Poster](/images/cv/eseb2017_poster.pdf) | European Society for Evolutionary Biology meeting 2017, Groningen, Netherlands
 10.03.2017 | Invited speaker | Natural History Museum, London, UK
 09.03.2017 | Invited speaker | University of Roehampton, London, UK
-20.06.2016 | Presentation | Evolution Meeting 2016, Austin, USA
-10.12.2015 | Seminar | Estación Biológica de Doñana-CSIC, Seville, Spain
+20.06.2016 | [Presentation](https://youtu.be/Njnbt67WSA4) | Evolution Meeting 2016, Austin, USA
+10.12.2015 | [Seminar](https://www.youtube.com/watch?v=JuOmai8otok) | Estación Biológica de Doñana-CSIC, Seville, Spain
 26.08.2015 | Presentation | Systematics Association Biennial Meeting, Oxford, UK
 12.02.2015 | Invited speaker | Friedrich-Schiller Universität, Jena, Germany
 13.10.2014 | Invited speaker | Natural History Museum, Bern, Switzerland
@@ -81,36 +73,37 @@ Date | Type | Description
 08.02.2013 | Presentation | 13th Joint meeting of the Swiss Zoological and Swiss Systematics Society. Basel, Switzerland
 08.11.2012 | Presentation | Ecology and Evolution in R. CIBIO, Portugal
 11.08.2012 | Presentation |  7th World Congress of Herpetology, Vancouver, Canada
-28.05.2012 | Poster | 15th African Amphibian Working Group meeting, Trento, Italy
+28.05.2012 | [Poster](/images/cv/AAWG2012_poster.pdf) | 15th African Amphibian Working Group meeting, Trento, Italy
 18.11.2011 | Presentation | Swiss Systematics Society annual meeting, Bern, Switzerland
 
 <br></br>
 ## Fieldwork Experience
 <br></br>
 
-Date | Location
+Date | Location | Links
 :--|:--|:--
-2017,2019 | Tanzania
-2012 | Malawi
-2011 | Cameroon
-2011 | Rwanda
-2010 | Uganda
+2017,2019 | Tanzania | [blog](blog/ukaguru_report/); [photos1](http://www.christophliedtke.com/Lr_galleries/tanzania2019/); [photos2](http://www.christophliedtke.com/Lr_galleries/tanzania2017/)
+2012 | Malawi | [blog](/blog/malawi/)
+2011 | Cameroon |  [photos](http://www.christophliedtke.com/Lr_galleries/cameroon2011/); [blog](/blog/cameroon/)
+2011 | Rwanda |  [blog](/blog/rwanda/)
+2010 | Uganda |
 2009, 2010 | Sweden
-2009 | Kenya
+2009 | Kenya | [blog](/blog/kenya/)
 2008 | Paraguay
-2007 | Peninsular Malaysia
-2007,2015-2021 | Spain
+2007 | Peninsular Malaysia | [photos](http://www.christophliedtke.com/Lr_galleries/malaysia/)
+2007,2015-2021 | Spain | [photos](http://www.christophliedtke.com/Lr_galleries/spain/)
 2007 | United Kingdom
 
 <br></br>  
-## Professional Services
+## Other Services
 <br></br>
 
 __Editorial:__
 Section Editor for the Herpetology Notes since 2013.
 
 __Reviews:__
-Evolution, Journal of Zoology, Journal of Biogeography, Frontiers in Biogeography, Biotropica, Jouranal of Arid Environments, Journal of Herpetology, Herpetology Notes, Salamandra, Zootaxa.
+Evolution, Journal of Zoology, Journal of Biogeography, Frontiers in Biogeography, Biotropica, Jouranal of Arid Environments, Journal of Herpetology, Herpetology Notes, Salamandra, Zootaxa,BMC Ecology and Evolution.
 
 __Others:__
-In 2013 and 2016 I assisted in an IUCN Red List conservation assessment for East African amphibians.
+In 2013 and 2016 I assisted in an IUCN Red List conservation assessment for East African amphibians.  
+In 2021-22 I was part of the Doñana Biological Station Seminar Series organising committee.

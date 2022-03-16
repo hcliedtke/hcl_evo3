@@ -1,7 +1,7 @@
-enable  : true
-title   : Publication Record
+enable  : false
+title   : About Me
 description: >
-  For the most up-to-date list of my publications, check out my <a href="https://scholar.google.es/citations?user=Mke2CrAAAAAJ&hl=en" target="_blank">google scholar profile</a>
+  text
   <br>
   <br>
 image   : images/about/google_scholar.jpg
