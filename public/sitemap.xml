@@ -2,16 +2,55 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>http://www.christophliedtke.com/</loc>
+    <lastmod>2022-03-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://www.christophliedtke.com/tags/pelobates-cultripes/</loc>
+    <lastmod>2022-03-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://www.christophliedtke.com/tags/pigmentation/</loc>
+    <lastmod>2022-03-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://www.christophliedtke.com/portfolio/pigmentation/</loc>
+    <lastmod>2022-03-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://www.christophliedtke.com/tags/</loc>
+    <lastmod>2022-03-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://www.christophliedtke.com/tags/transcriptomics/</loc>
+    <lastmod>2022-03-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://www.christophliedtke.com/tags/amphibians/</loc>
+    <lastmod>2022-02-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://www.christophliedtke.com/tags/comparative-phylogenetics/</loc>
+    <lastmod>2022-02-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://www.christophliedtke.com/tags/life-history-traits/</loc>
+    <lastmod>2022-02-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://www.christophliedtke.com/portfolio/reproductive_modes/</loc>
+    <lastmod>2022-02-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://www.christophliedtke.com/portfolio/amphibian_systematics/</loc>
+    <lastmod>2021-12-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://www.christophliedtke.com/tags/barcoding/</loc>
+    <lastmod>2021-12-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://www.christophliedtke.com/tags/biogeography/</loc>
+    <lastmod>2021-12-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://www.christophliedtke.com/tags/r/</loc>
+    <lastmod>2021-12-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://www.christophliedtke.com/tags/systematics/</loc>
+    <lastmod>2021-12-01T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://www.christophliedtke.com/tags/cv/</loc>
     <lastmod>2021-05-19T12:27:38+06:00</lastmod>
   </url><url>
     <loc>http://www.christophliedtke.com/cv/curr_vit/</loc>
-    <lastmod>2021-05-19T12:27:38+06:00</lastmod>
-  </url><url>
-    <loc>http://www.christophliedtke.com/</loc>
-    <lastmod>2021-05-19T12:27:38+06:00</lastmod>
-  </url><url>
-    <loc>http://www.christophliedtke.com/tags/</loc>
     <lastmod>2021-05-19T12:27:38+06:00</lastmod>
   </url><url>
     <loc>http://www.christophliedtke.com/pubs_iframe/</loc>
@@ -47,17 +86,8 @@
     <loc>http://www.christophliedtke.com/publications/</loc>
     <lastmod>2018-07-12T18:19:33+06:00</lastmod>
   </url><url>
-    <loc>http://www.christophliedtke.com/portfolio/amphibian_systematics/</loc>
-    <lastmod>2018-07-12T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://www.christophliedtke.com/tags/amphibians/</loc>
-    <lastmod>2018-07-12T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://www.christophliedtke.com/tags/barcoding/</loc>
-    <lastmod>2018-07-12T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://www.christophliedtke.com/tags/comparative-phylogenetics/</loc>
-    <lastmod>2018-07-12T00:00:00+00:00</lastmod>
+    <loc>http://www.christophliedtke.com/portfolio/</loc>
+    <lastmod>2018-07-12T18:19:33+06:00</lastmod>
   </url><url>
     <loc>http://www.christophliedtke.com/portfolio/pc_transcriptomics/</loc>
     <lastmod>2018-07-12T00:00:00+00:00</lastmod>
@@ -65,19 +95,7 @@
     <loc>http://www.christophliedtke.com/portfolio/genome_size/</loc>
     <lastmod>2018-07-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://www.christophliedtke.com/tags/pelobates/</loc>
-    <lastmod>2018-07-12T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://www.christophliedtke.com/portfolio/</loc>
-    <lastmod>2018-07-12T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://www.christophliedtke.com/tags/r/</loc>
-    <lastmod>2018-07-12T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://www.christophliedtke.com/tags/systematics/</loc>
-    <lastmod>2018-07-12T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://www.christophliedtke.com/tags/transcriptomics/</loc>
+    <loc>http://www.christophliedtke.com/tags/scaphiopus-couchii/</loc>
     <lastmod>2018-07-12T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://www.christophliedtke.com/tags/cameroon/</loc>

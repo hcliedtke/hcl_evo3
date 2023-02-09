@@ -1,5 +1,6 @@
 enable  : true
 galleryImages :
+  - image : images/gallery_thumbs/az_phrynosoma.png
   - image : images/gallery_thumbs/sp_pelodytes.jpg
   - image : images/gallery_thumbs/cm_viper.jpg
   - image : images/gallery_thumbs/mr_gecko.jpg
@@ -10,6 +11,7 @@ galleryImages :
   - image : images/gallery_thumbs/tz_leptopelis.jpg
   - image : images/gallery_thumbs/ug_atheris.jpg
 galleryURL :
+  - imgurl : http://www.christophliedtke.com/Lr_galleries/arizona2022/
   - imgurl : http://www.christophliedtke.com/Lr_galleries/spain/
   - imgurl : http://www.christophliedtke.com/Lr_galleries/cameroon2011/
   - imgurl : http://www.christophliedtke.com/Lr_galleries/morocco/
@@ -20,6 +22,7 @@ galleryURL :
   - imgurl : http://www.christophliedtke.com/Lr_galleries/tanzania2017/
   - imgurl : http://www.christophliedtke.com/Lr_galleries/uganda2010/
 galleryTitle:
+  - title : "Arizona"
   - title : "Spain"
   - title : "Cameroon"
   - title : "Morocco"

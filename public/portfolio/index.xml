@@ -1,19 +1,37 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Portfolios on HCL | Life History Evolution</title>
+    <title>Research Projects on HCL | Life History Evolution</title>
     <link>http://www.christophliedtke.com/portfolio/</link>
-    <description>Recent content in Portfolios on HCL | Life History Evolution</description>
+    <description>Recent content in Research Projects on HCL | Life History Evolution</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 12 Jul 2018 00:00:00 +0000</lastBuildDate><atom:link href="http://www.christophliedtke.com/portfolio/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 12 Jul 2018 18:19:33 +0600</lastBuildDate><atom:link href="http://www.christophliedtke.com/portfolio/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Pigmentation Plasticity</title>
+      <link>http://www.christophliedtke.com/portfolio/pigmentation/</link>
+      <pubDate>Tue, 15 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.christophliedtke.com/portfolio/pigmentation/</guid>
+      <description>An organism’s capacity to track and resemble its background (‘background matching’) is an important cryptic mechanism in the animal kingdom. Some species have evolved facultative colour change, a remarkable form of phenotypic plasticity, to match temporally or spatially heterogeneous backgrounds. Here, we quantify the capacity of such facultative changes in pigmentation in Western Spadefoot tadpoles (Pelobates cultripes), by manipulating the background colour of aquaria. We find that tadpoles of this species are capable of detecting and responding to even minor changes in background brightness by adjusting the pigmentation content in their skin.</description>
+    </item>
+    
+    <item>
+      <title>Reproductive Mode Evolution</title>
+      <link>http://www.christophliedtke.com/portfolio/reproductive_modes/</link>
+      <pubDate>Tue, 01 Feb 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.christophliedtke.com/portfolio/reproductive_modes/</guid>
+      <description>I am interested in understanding of how parts or all of the ancestral biphasic life cycle of amphibians has been lost or modified. I use comparative phylogenetic methods to study how life history modes have evolved and how this may impact on lineage diversification. I am also interested in what may have driven the evolution of terrestrial modes of reproduction.</description>
+    </item>
+    
     <item>
       <title>Amphibian Systematics</title>
       <link>http://www.christophliedtke.com/portfolio/amphibian_systematics/</link>
-      <pubDate>Thu, 12 Jul 2018 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 01 Dec 2021 00:00:00 +0000</pubDate>
       
       <guid>http://www.christophliedtke.com/portfolio/amphibian_systematics/</guid>
-      <description>Amphibian Systematics A great deal of work needs to be done to update the taxonomy and systematics of African amphibians and to gain a deeper understanding about aspects of their natural history. Recent years, perhaps fuelled by the proliferation of molecular barcoding techniques coupled with phylogenetic and coalescence species delimitation methods, have seen a surge in systematic revisions and newly described species. Together with many colleagues, I have contributed to furthering our understanding of species, their distributions and tadpole morphology for a number of African amphibians.</description>
+      <description>Amphibian Systematics A great deal of work needs to be done to update the taxonomy and systematics of African amphibians and to gain a deeper understanding about aspects of their natural history. Recent years, perhaps fuelled by the proliferation of molecular barcoding techniques coupled with phylogenetic and coalescence species delimitation methods, have seen a surge in systematic revisions and newly described species. Together with many colleagues, I have contributed to furthering our understanding of species, their distributions, biogeography and natural history for a number of African amphibians.</description>
     </item>
     
     <item>
@@ -22,7 +40,7 @@
       <pubDate>Thu, 12 Jul 2018 00:00:00 +0000</pubDate>
       
       <guid>http://www.christophliedtke.com/portfolio/pc_transcriptomics/</guid>
-      <description>Larval Plasticity Developmental plasticity is a common adaptation to environmental heterogeneity and understanding the evolution of such plasticity is an important goal in evolutionary biology. Amphibian larvae are usually capable of accelerating their development in response to pond drying to avoid desiccation risk, with the Western Spadefoot toad (Pelobates cultripes) being an extreme example. This species can accelerate its development by more than 30%! The Gomez Mestre Group is currently working on uncovering the gene regulatory network underlying this plasticity, by experimentally induce early development through simulated pond drying and screen the transcriptome for differentially expressed genes.</description>
+      <description>Larval Developmental Acceleration Developmental plasticity is a common adaptation to environmental heterogeneity and understanding the evolution of such plasticity is an important goal in evolutionary biology. Amphibian larvae are usually capable of accelerating their development in response to pond drying to avoid desiccation risk, with the Western Spadefoot toad (Pelobates cultripes) being an extreme example. This species can accelerate its development by more than 30%! The Gomez Mestre Group is currently working on uncovering the gene regulatory network underlying this plasticity, by experimentally induce early development through simulated pond drying and screen the transcriptome for differentially expressed genes.</description>
     </item>
     
     <item>

@@ -39,11 +39,24 @@ td {
 
 /* BLOG POSTS  */
 
+/*
 .blog-post-image {
   /* margin-top: 30px;
-  margin-bottom: 20px; */
+  margin-bottom: 20px;
   width: 100%;
-overflow: hidden;
-display: flex;
-justify-content: center;
+  overflow: hidden;
+  display: flex;
+  justify-content: center;
+}
+*/
+.blog-post-image {
+
+ /* Full height */
+ height: 100%;
+
+ /* Create the parallax scrolling effect */
+ background-attachment: fixed;
+ background-position: center;
+ background-repeat: no-repeat;
+ background-size: cover;
 }
