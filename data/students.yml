@@ -1,0 +1,33 @@
+enable  : true
+title   : PhD Students
+members  :
+  - name  : John Lyakurwa
+    image : images/team/john.jpg
+    designation : 
+    description : "John is a is based at the department of zoology and wildlife conservation at the University of Dar es Salaam in Tanzania. He is interested in the systematics and biogeography of Tanzanian amphibians and reptiles, especially Eastern Arc endemics."
+    #url         : 
+    #facebook    : https://www.fb.com/themefisher
+    #twitter     : https://www.twitter.com/themefisher
+    #linkedIn    : https://www.linkedin.com/themefisher
+    #googleplus  : https://plus.google.com/themefisher
+
+  - name  : "Paula Sianes"
+    image : images/team/paula.png
+    designation : 
+    description : "Paula is a biologist who has always been intrigued by genetics and epigenetics. She has recently become interested in bioinformatics and now studies how genome size and architecture may have been shaped during evolution in relation to developmental rate and plasticity. To this end, she works with the larvae of several closely related anuran species"
+    #url         : 
+    #pdf         : 
+    #facebook    : https://www.fb.com/themefisher
+    #twitter     : https://www.twitter.com/themefisher
+    #linkedIn    : https://www.linkedin.com/themefisher
+    #googleplus  : https://plus.google.com/themefisher
+
+  - name  : Rafa Rico
+    image : images/team/rafa.png
+    designation : 
+    description : "Rafa has been interested in evolutionary ecology since he started his studies in biology. He is currently studying the behavioral and morphological antipredator responses of various anuran species and their dependence upon stress hormones. He is also addressing the adaptive divergence in developmental plasticity among populations from a functional genomic perspective."
+    #url         : 
+    #facebook    : https://www.fb.com/themefisher
+    #twitter     : https://www.twitter.com/themefisher
+    #linkedIn    : https://www.linkedin.com/themefisher
+    #googleplus  : https://plus.google.com/themefisher

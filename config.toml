@@ -19,30 +19,34 @@ name    = "Publications"
 url     = "publications"
 weight  = 3
 [[menu.main]]
+name    = "People"
+url     = "people"
+weight  = 4
+[[menu.main]]
 name    = "CV"
 url     = "cv"
-weight  = 4
+weight  = 5
 [[menu.main]]
 name    = "R code"
 url     = "https://hcliedtke.github.io/R-scrapheap/"
-weight  = 5
+weight  = 6
 [[menu.main]]
 name    = "Field Blog"
 url     = "blog"
-weight  = 6
+weight  = 7
 [[menu.main]]
 name    = "Wildlife"
 url     = "gallery"
-weight  = 7
+weight  = 8
 [[menu.main]]
 name    = "Contact"
 url     = "contact"
-weight  = 8
+weight  = 9
 
 # Site Params
 [params]
 home = "Home"
-logo = "images/hcl_logo.png"
+logo = "images/hcl_logo3.png"
 dateFormat = "6 January 2006"
 # Meta data
 description = "HCL logo"
@@ -73,7 +77,11 @@ title   = "Eco-Evo-Devo"
 [[params.banner.flipText]]
 title   = "Transcriptomics"
 [[params.banner.flipText]]
+title   = "Genomics"
+[[params.banner.flipText]]
 title   = "Systematics"
+[[params.banner.flipText]]
+title   = "Biogeography"
 [[params.banner.flipText]]
 title   = "Photography"
 
@@ -81,8 +89,8 @@ title   = "Photography"
 [params.about]
 enable  = true
 title   = "ABOUT ME"
-content = "I am a Juan de la Cierva postdoctoral researcher at the Estación Biológica de Doñana, in Seville, Spain. I am a member of Ivan Gomez-Mestre's <a href='https://www.eco-evo-devo.com/' target='_blank'>Ecology, Evolution and Development Group</a>. I am interested in applying different approaches to studying trait evolution at different scales. My two main research lines are centred on (1) describing macroevolutionary patterns in trait evolution through the use of comparative phylogenetic methods, and (2) using transcriptomic and epigenetic approaches to study the role of adaptive plasticity during trait evolution. </br> </br> I completed my PhD at the University of Basel in Switzerland supervised by <a href='https://www.nhm.ac.uk/our-science/departments-and-staff/staff-directory/simon-loader.html' target='_blank'>Simon Loader</a> and <a href='https://scholar.google.com/citations?user=Cj0pBIEAAAAJ&hl=en' target='_blank'>Hendrik Müller</a>, studying the accumulation of amphibian lineages in Africa and whether aspects of life history (specifically terrestrial breeding) have evolved in response to specific environmental conditions. I continue to conduct <a href='/blog'>field work in tropical forests across Africa</a> whenever I can, which I enjoy very much"
-image   = "images/about/hcl_profile.jpg"
+content = "I am a Juan de la Cierva postdoctoral researcher at the Estación Biológica de Doñana, in Seville, Spain. I am a member of Ivan Gomez-Mestre's <a href='https://www.eco-evo-devo.com/' target='_blank'>Ecology, Evolution and Development Group</a>. I am interested in applying different approaches to studying trait evolution at different scales. My three main research lines are centred on (1) describing macroevolutionary patterns in trait evolution through the use of comparative phylogenetic methods, (2) using transcriptomic and epigenetic approaches to study the role of adaptive plasticity in trait evolution, and (3) studying the systematics and biogeography of African amphibians. </br> </br> I completed my PhD at the University of Basel in Switzerland, studying the accumulation of amphibian lineages in Africa and whether aspects of life history (specifically terrestrial breeding) have evolved in response to specific environmental conditions. I continue to conduct <a href='/blog'>field work in tropical forests across Africa</a> whenever I can, which I thoroughly enjoy."
+image   = "images/about/hcl_profile.png"
 
 # Call to Action
 [params.cta]

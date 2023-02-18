@@ -1264,6 +1264,57 @@ article {
   padding: 4px 12px;
 }
 
+#journal_cover {
+  margin: 50px 0;
+}
+
+.journal_cover-member {
+  margin-top: 30px;
+}
+
+.journal_cover-member:hover .journal_cover-img img {
+  opacity: .8;
+}
+
+.journal_cover-member .journal_cover-img {
+  position: relative;
+  margin-bottom: 20px;
+}
+
+.journal_cover-member .journal_cover-img .journal_cover-pic {
+  width: 100%;
+}
+
+.journal_cover-member .journal_cover_designation {
+  font-size: 13px;
+}
+
+.journal_cover-member h3 {
+  color: #02bdd5;
+  margin-bottom: 0;
+  font-size: 20px;
+}
+
+.journal_cover-member p {
+  font-size: 14px;
+}
+
+.journal_cover-member .social-icons a {
+  background: #02bdd5;
+  color: #fff;
+  padding: 4px 8px;
+  display: inline-block;
+  font-size: 15px;
+}
+
+.journal_cover-member .social-icons .facebook {
+  padding: 4px 12px;
+}
+
+
+
+
+
 #footer {
   background: #fff;
   padding: 25px 0;

@@ -1,43 +1,53 @@
 enable  : true
-title   : Journal Covers
+title   : Colleagues and Collaborators
 members  :
-  - name  : Functional Ecology
-    image : images/about/func_eco_cover.png
-    designation : 2022
-    description : "Ecology drives patterns of spectral transmission in the ocular lenses of frogs and salamanders"
-    url         : https://besjournals.onlinelibrary.wiley.com/doi/abs/10.1111/1365-2435.14018
+  - name  : Ivan Gomez-Mestre
+    image : images/team/ivan.png
+    designation : 
+    description : "Ivan, based at the Biological Station of Doñana, is interested in the evolution of phenotypic plasticity and the role of plasticity in evolution."
+    url         : https://www.eco-evo-devo.com
+    #facebook    : https://www.fb.com/themefisher
+    twitter     : https://twitter.com/IGomezMestre
+    #linkedIn    : https://www.linkedin.com/themefisher
+    #googleplus  : https://plus.google.com/themefisher
+
+  - name  : Simon Loader
+    image : images/team/simon.png
+    designation : 
+    description : "Simon is the Principal Curator of Vertebrates at the Natural History Museum in London. His research focus is systematics, investigating the current patterns and processes behind the maintenance and formation of biodiversity, especially of East African amphibians and reptiles."
+    url         : https://www.nhm.ac.uk/our-science/departments-and-staff/staff-directory/simon-loader.html
+    #pdf         : 
     #facebook    : https://www.fb.com/themefisher
     #twitter     : https://www.twitter.com/themefisher
     #linkedIn    : https://www.linkedin.com/themefisher
     #googleplus  : https://plus.google.com/themefisher
 
-  - name  : "G3: Genes, Genomes, Genetics"
-    image : images/about/G3_cover.png
-    designation : 2019
-    description : "De novo assembly and annotation of the larval transcriptome of two spadefoot toads widely divergent in developmental rate"
-    url         : https://academic.oup.com/g3journal/article/9/8/2647/6026768?login=true
-    pdf         : https://watermark.silverchair.com/g3journal2647.pdf?token=AQECAHi208BE49Ooan9kkhW_Ercy7Dm3ZL_9Cf3qfKAc485ysgAAAqwwggKoBgkqhkiG9w0BBwagggKZMIIClQIBADCCAo4GCSqGSIb3DQEHATAeBglghkgBZQMEAS4wEQQM1AvZ6fVB4OjA2RVFAgEQgIICX5iMoVkGj8RVnWpNZxGtC52G0q3mpKHKbvOd25DAPQHV8DGNkcEo8dH5Ne0wH7FAw1RPBWWWhP56TppXcOByLVuA1LQSr8pXyhqyart6zBMIuDi_A4UMHEHBpLqv5p9cszFD8CPtTEbIuDoPut3CtrpLmjDxnlrrem7MW8fWkcYsOulIeonaPwfOb83UWwqdWGoS2tjEjCDTFNIozsXu44HZ2sX2i0htuBnRuG8qQBlZLZR2qyfblHeU6P6MSFDrm7BcHmv0hFHASMUPUufUvmgSXXcEGUP5oGr0bzOfCsocOirWv_CLNUBCFLckCBv0dnLRDOJfxnAWNi4s5iosUdkTZ1mkMhvuWiKetsty3sbyHu3gqim_2dShW2e1iNcU6QHScKTDWBAjc3CH8sRKzwt7-k1l7zrd0gLBtLxnDGdf4O9j4m6wLB641SfC8j6lBbRCUEQbJvonXXiZG95djSoXm3c3rKQWxym7BA-wGMi5X0r-iYxmo98080QooE4ef5j46W6DVXWqphtgLv_XyKV0xJ9904Xr6iY-4idKln3Zlql_VWr14oJShVYvHtc5n6CKA_xBd1CTr5_dYK7osGi_--StICLFFOEAQu1fjikya8Fuo4bHmWjtUH-2hTztEzR7nzjUKdcGiwANjPeExeAH9RtpB4n76w2mQkbjMglKVMMqdkWx0D9F6ObrHJ7JcWFOFgMCpaIWIkETRpEvQUGRI3H7fNPK7C7-DdSN6VirPjZoWBWqd2xcpxjyyCIM9894qXADOypxo4zJdwHpQ1TmmIYzSwYD4-6woDvXD50
+  - name  : Hendrik Müller
+    image : images/team/hendrik.jpg
+    designation : 
+    description : "Hendrik is Curator of Zoology at Martin Luther University Halle-Wittenberg, Germany, He works on amphibian morphology and development. He is interested in how development changes in relation to different life history strategies, such as direct development or viviparity."
+    url         : https://www.researchgate.net/profile/Hendrik-Mueller-5
     #facebook    : https://www.fb.com/themefisher
     #twitter     : https://www.twitter.com/themefisher
     #linkedIn    : https://www.linkedin.com/themefisher
     #googleplus  : https://plus.google.com/themefisher
 
-  - name  : Systematics and Biodiversity
-    image : images/about/syst_bio_cover.jpg
-    designation : 2019
-    description : "AmphiNom: an amphibian systematics tool"
-    url         : https://www.tandfonline.com/doi/abs/10.1080/14772000.2018.1518935
+  - name  : Lucinda Lawson
+    image : images/team/lucinda.png
+    designation : 
+    description : "Lucinda is a computational evolutionary biologist at the University of Cincinnati. She is focused on understanding how species diverge and evolve in response to intrinsic and extrinsic forces in their environment."
+    url         : http://www.lucindaplawson.com
     #facebook    : https://www.fb.com/themefisher
-    #twitter     : https://www.twitter.com/themefisher
+    twitter     : https://twitter.com/LucindaPLawson
     #linkedIn    : https://www.linkedin.com/themefisher
     #googleplus  : https://plus.google.com/themefisher
 
-  - name  : Evolution
-    image : images/about/evo_cover.png
-    designation : 2016
-    description : "No ecological opportunity signal on a continental scale? Diversification and life‐history evolution of African true toads (Anura: Bufonidae)"
-    url         : https://onlinelibrary.wiley.com/doi/abs/10.1111/evo.12985
+  - name  : Andrew Mehring
+    image : images/team/andrew.png
+    designation : 
+    description : "Andrew, assistant Professor of Ecosystem Ecology at the University of Louisville, is fasciated by ecosystem ecology and community ecology."
+    url         : https://andrewmehring.wixsite.com
     #facebook    : https://www.fb.com/themefisher
-    #twitter     : https://www.twitter.com/themefisher
-    #linkedIn    : https://www.linkedin.com/themefisher
+    twitter     : https://twitter.com/andrewsmehring
+    linkedIn    : https://www.linkedin.com/in/andrew-mehring-54814b67
     #googleplus  : https://plus.google.com/themefisher
