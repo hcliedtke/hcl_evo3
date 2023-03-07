@@ -33,6 +33,8 @@ __15.09.2003–01.08.2005__ | International Baccalaureate (IB) | | International
 <br></br>
 Date | Type | Description
 :--|:--|:--
+28.02.2022–04.03.2022 | Workshop | NGS Analysis for gene regulation and epigenomics. Online, hosted by Physalia Courses.
+06.11.2018–09.11.2018 | Workshop | Linux for Bioinformaticians. Held at the Biological Station of Doñana
 12.06.2017–16.06.2017 | Workshop | Using the Trinity Framework for De novo Transcriptome Assembly, Annotation, and Downstream Expression Studies. Held at the Botanical Museum, Berlin, hosted by Physalia Courses.
 17.10.2017–28.10.2017 | Certification | Animal Experimentation levels of a,b,c and d, for designing and executing projects involving the handling and manipulation of wild animals. Held at the Biological Station of Doñana, Seville, and certificate issued by the Ministry of Agriculture, Fisheries and Rural Development of the Junta de Andalucía.
 17.06.2016| Workshop | ASN Science Communication. Focus: conveying science to different audiences using a range of media and tools. Duke University, held in Austin Texas
@@ -55,6 +57,8 @@ Date | Type | Description
 
 Date | Type | Description
 :--|:--|:--
+30.06.2022 | [Poster](/images/cv/eurodevo2022_poster.pdf) | Euro Evo Devo 2022 Meeting. Napoli, Italy
+03.02.2022 | Conference Presentation | Sociedad Española de Biología Evolutiva conferencia, Vigo, Spain
 24.06.2021 | [Seminar](https://youtu.be/TbVY0cy0A1c) | Estación Biológica de Doñana-CSIC, Seville, Spain
 30.04.2021 | Presentation | Sevinomics Spring Meeting 2021, Sevilla, Spain
 05.02.2020 | [Poster](/images/cv/sesbe2020_poster.pdf) | Sociedad Española de Biología Evolutiva conference, Sevilla, Spain
@@ -82,7 +86,7 @@ Date | Type | Description
 
 Date | Location | Links
 :--|:--|:--
-2017,2019 | Tanzania | [blog](blog/ukaguru_report/); [photos1](http://www.christophliedtke.com/Lr_galleries/tanzania2019/); [photos2](http://www.christophliedtke.com/Lr_galleries/tanzania2017/)
+2017,2019 | Tanzania | [blog](blog/ukaguru_report/); [photos1](http://www.christophliedtke.com/Lr_galleries/tanzania2019/); [photos2](http://www.christophliedtke.com/Lr_galleries/tanzania2017/); [photos3](http://www.christophliedtke.com/Lr_galleries/tanzania2023/)
 2012 | Malawi | [blog](/blog/malawi/)
 2011 | Cameroon |  [photos](http://www.christophliedtke.com/Lr_galleries/cameroon2011/); [blog](/blog/cameroon/)
 2011 | Rwanda |  [blog](/blog/rwanda/)
@@ -99,7 +103,7 @@ Date | Location | Links
 <br></br>
 
 __Editorial:__
-Section Editor for the Herpetology Notes since 2013.
+Section Editor for the Herpetology Notes, 2013-2022.
 
 __Reviews:__
 Evolution, Journal of Zoology, Journal of Biogeography, Frontiers in Biogeography, Biotropica, Jouranal of Arid Environments, Journal of Herpetology, Herpetology Notes, Salamandra, Zootaxa,BMC Ecology and Evolution.
