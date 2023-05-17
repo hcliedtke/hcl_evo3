@@ -24,7 +24,7 @@ url     = "people"
 weight  = 4
 [[menu.main]]
 name    = "CV"
-url     = "cv"
+url     = "cv/curr_vit"
 weight  = 5
 [[menu.main]]
 name    = "R code"
@@ -46,7 +46,7 @@ weight  = 9
 # Site Params
 [params]
 home = "Home"
-logo = "images/hcl_logo3.png"
+logo = "images/hcl_logo.png"
 dateFormat = "6 January 2006"
 # Meta data
 description = "HCL logo"

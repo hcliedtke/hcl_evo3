@@ -4,7 +4,7 @@ date: "2021-05-19T12:27:38+06:00"
 description: This is meta description
 image: images/cv/academic_timeline.jpg
 tags: "CV"
-title: Full CV
+title: Curriculum Vitae
 summary: "I am an evolutionary biologist currently based at the Biological Station of Doñana, in Spain. Read my full CV here."
 ---
 <br></br>
@@ -86,7 +86,8 @@ Date | Type | Description
 
 Date | Location | Links
 :--|:--|:--
-2017,2019 | Tanzania | [blog](blog/ukaguru_report/); [photos1](http://www.christophliedtke.com/Lr_galleries/tanzania2019/); [photos2](http://www.christophliedtke.com/Lr_galleries/tanzania2017/); [photos3](http://www.christophliedtke.com/Lr_galleries/tanzania2023/)
+2023 | Taiwan | [photos](http://www.christophliedtke.com/Lr_galleries/taiwan2023/)
+2017,2019,2023 | Tanzania | [blog](blog/ukaguru_report/); [photos1](http://www.christophliedtke.com/Lr_galleries/tanzania2019/); [photos2](http://www.christophliedtke.com/Lr_galleries/tanzania2017/); [photos3](http://www.christophliedtke.com/Lr_galleries/tanzania2023/)
 2012 | Malawi | [blog](/blog/malawi/)
 2011 | Cameroon |  [photos](http://www.christophliedtke.com/Lr_galleries/cameroon2011/); [blog](/blog/cameroon/)
 2011 | Rwanda |  [blog](/blog/rwanda/)

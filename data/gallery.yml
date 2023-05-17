@@ -1,5 +1,6 @@
 enable  : true
 galleryImages :
+  - image : images/gallery_thumbs/tw_viper.png
   - image : images/gallery_thumbs/az_phrynosoma.png
   - image : images/gallery_thumbs/sp_pelodytes.jpg
   - image : images/gallery_thumbs/tz_callulina.jpg
@@ -12,6 +13,7 @@ galleryImages :
   - image : images/gallery_thumbs/rw_hyperolius.jpg
   - image : images/gallery_thumbs/ug_atheris.jpg
 galleryURL :
+  - imgurl : http://www.christophliedtke.com/Lr_galleries/taiwan2023/
   - imgurl : http://www.christophliedtke.com/Lr_galleries/arizona2022/
   - imgurl : http://www.christophliedtke.com/Lr_galleries/spain/
   - imgurl : http://www.christophliedtke.com/Lr_galleries/tanzania2023/
@@ -25,6 +27,7 @@ galleryURL :
   - imgurl : http://www.christophliedtke.com/Lr_galleries/rwanda2011/
   - imgurl : http://www.christophliedtke.com/Lr_galleries/uganda2010/
 galleryTitle:
+  - title : "Taiwan"
   - title : "Arizona"
   - title : "Spain"
   - title : "Tanzania 2023"
