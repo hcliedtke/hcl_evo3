@@ -2,10 +2,12 @@
 caption: Transcriptomics
 tags:
 - transcriptomics
+- genomics
+- ATACseq
 - Pelobates cultripes
 - pigmentation
 collaborators: Ivan Gomez-Mestre, Karem López
-date: "2022-03-15"
+date: "2023-03-15"
 description: This is meta description
 image: images/portfolio/pigmentation_plasticity.png
 #liveLink: https://www.themefisher.com

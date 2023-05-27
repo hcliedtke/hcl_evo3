@@ -45,9 +45,19 @@ members  :
   - name  : Andrew Mehring
     image : images/team/andrew.png
     designation : 
-    description : "Andrew, assistant Professor of Ecosystem Ecology at the University of Louisville, is fasciated by ecosystem ecology and community ecology."
+    description : "Andrew, assistant professor of Ecosystem Ecology at the University of Louisville, is fasciated by ecosystem ecology and community ecology."
     url         : https://andrewmehring.wixsite.com
     #facebook    : https://www.fb.com/themefisher
     twitter     : https://twitter.com/andrewsmehring
     linkedIn    : https://www.linkedin.com/in/andrew-mehring-54814b67
+    #googleplus  : https://plus.google.com/themefisher
+
+  - name  : Chi-Shiun Wu
+    image : images/team/chishiun.png
+    designation : 
+    description : "Chi-Shiun is assistant professor at the Chinese Culture University in Taipei."
+    url         : https://scholar.google.com.tw/citations?user=ppQ-250AAAAJ&hl=zh-TW
+    #facebook    : https://www.fb.com/themefisher
+    #twitter     : https://twitter.com/andrewsmehring
+    #linkedIn    : https://www.linkedin.com/in/andrew-mehring-54814b67
     #googleplus  : https://plus.google.com/themefisher

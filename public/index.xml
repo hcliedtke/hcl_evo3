@@ -6,29 +6,38 @@
     <description>Recent content on HCL | Life History Evolution</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 01 Jan 2023 18:19:33 +0600</lastBuildDate><atom:link href="http://www.christophliedtke.com/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Pigmentation Plasticity</title>
-      <link>http://www.christophliedtke.com/portfolio/pigmentation/</link>
-      <pubDate>Tue, 15 Mar 2022 00:00:00 +0000</pubDate>
-      
-      <guid>http://www.christophliedtke.com/portfolio/pigmentation/</guid>
-      <description>An organism’s capacity to track and resemble its background (‘background matching’) is an important cryptic mechanism in the animal kingdom. Some species have evolved facultative colour change, a remarkable form of phenotypic plasticity, to match temporally or spatially heterogeneous backgrounds. Here, we quantify the capacity of such facultative changes in pigmentation in Western Spadefoot tadpoles (Pelobates cultripes), by manipulating the background colour of aquaria. We find that tadpoles of this species are capable of detecting and responding to even minor changes in background brightness by adjusting the pigmentation content in their skin.</description>
-    </item>
-    
+    <lastBuildDate>Mon, 01 May 2023 00:00:00 +0000</lastBuildDate><atom:link href="http://www.christophliedtke.com/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Reproductive Mode Evolution</title>
       <link>http://www.christophliedtke.com/portfolio/reproductive_modes/</link>
-      <pubDate>Tue, 01 Feb 2022 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 01 May 2023 00:00:00 +0000</pubDate>
       
       <guid>http://www.christophliedtke.com/portfolio/reproductive_modes/</guid>
       <description>I am interested in understanding of how parts or all of the ancestral biphasic life cycle of amphibians has been lost or modified. I use comparative phylogenetic methods to study how life history modes have evolved and how this may impact on lineage diversification. I am also interested in what may have driven the evolution of terrestrial modes of reproduction.</description>
     </item>
     
     <item>
+      <title>Developmental Plasticity</title>
+      <link>http://www.christophliedtke.com/portfolio/pc_transcriptomics/</link>
+      <pubDate>Sat, 01 Apr 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.christophliedtke.com/portfolio/pc_transcriptomics/</guid>
+      <description>Developmental and Phenotypic Plasticity An organism&amp;rsquo;s phenotype is the product of its genes and its environment. This plasticity is considered adaptive when changes in phenotype in response to a specific environmental condition improve the organism&amp;rsquo;s fitness. Adaptive developmental plasticity is therefore an interesting mechanism for coping with environmental heterogeneity. I am interested in understanding the molecular mechanism that underlie the regulation of plastic phenotypes. We apply genomic techniques including RNAseq and ATACseq to study the generation of environmentally sensitive phenotypes.</description>
+    </item>
+    
+    <item>
+      <title>Pigmentation Plasticity</title>
+      <link>http://www.christophliedtke.com/portfolio/pigmentation/</link>
+      <pubDate>Wed, 15 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.christophliedtke.com/portfolio/pigmentation/</guid>
+      <description>An organism’s capacity to track and resemble its background (‘background matching’) is an important cryptic mechanism in the animal kingdom. Some species have evolved facultative colour change, a remarkable form of phenotypic plasticity, to match temporally or spatially heterogeneous backgrounds. Here, we quantify the capacity of such facultative changes in pigmentation in Western Spadefoot tadpoles (Pelobates cultripes), by manipulating the background colour of aquaria. We find that tadpoles of this species are capable of detecting and responding to even minor changes in background brightness by adjusting the pigmentation content in their skin.</description>
+    </item>
+    
+    <item>
       <title>Amphibian Systematics</title>
       <link>http://www.christophliedtke.com/portfolio/amphibian_systematics/</link>
-      <pubDate>Wed, 01 Dec 2021 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 01 Feb 2023 00:00:00 +0000</pubDate>
       
       <guid>http://www.christophliedtke.com/portfolio/amphibian_systematics/</guid>
       <description>Amphibian Systematics A great deal of work needs to be done to update the taxonomy and systematics of African amphibians and to gain a deeper understanding about aspects of their natural history. Recent years, perhaps fuelled by the proliferation of molecular barcoding techniques coupled with phylogenetic and coalescence species delimitation methods, have seen a surge in systematic revisions and newly described species. Together with many colleagues, I have contributed to furthering our understanding of species, their distributions, biogeography and natural history for a number of African amphibians.</description>
@@ -59,15 +68,6 @@
       
       <guid>http://www.christophliedtke.com/blog/ukaguru_report/</guid>
       <description>Background “There was something deep under the bark of this tree… I couldn’t believe I even spotted it”. This is how Michele Menegon described his encounter with the Beautiful Forest Toad, some fifteen years ago, only two years after it was even discovered. And that was probably the last anyone (at least anyone who cared) saw it. In a time when the news seems to paint a bleak picture for what’s in store for biodiversity on our planet, rediscoveries of creatures thought extinct shine through like the feel-good stories we need right now.</description>
-    </item>
-    
-    <item>
-      <title>Developmental Plasticity</title>
-      <link>http://www.christophliedtke.com/portfolio/pc_transcriptomics/</link>
-      <pubDate>Thu, 12 Jul 2018 00:00:00 +0000</pubDate>
-      
-      <guid>http://www.christophliedtke.com/portfolio/pc_transcriptomics/</guid>
-      <description>Larval Developmental Acceleration Developmental plasticity is a common adaptation to environmental heterogeneity and understanding the evolution of such plasticity is an important goal in evolutionary biology. Amphibian larvae are usually capable of accelerating their development in response to pond drying to avoid desiccation risk, with the Western Spadefoot toad (Pelobates cultripes) being an extreme example. This species can accelerate its development by more than 30%! The Gomez Mestre Group is currently working on uncovering the gene regulatory network underlying this plasticity, by experimentally induce early development through simulated pond drying and screen the transcriptome for differentially expressed genes.</description>
     </item>
     
     <item>

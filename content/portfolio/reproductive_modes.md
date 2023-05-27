@@ -1,6 +1,6 @@
 ---
 title: Reproductive Mode Evolution
-date: "2022-02-01"
+date: "2023-05-01"
 summary: "I am interested in understanding of how parts or all of the ancestral biphasic life cycle of amphibians has been lost or modified. I use comparative phylogenetic methods to study how life history modes have evolved and how this may impact on lineage diversification. I am also interested in what may have driven the evolution of terrestrial modes of reproduction."
 image: images/portfolio/eggs.png
 caption:  Amphibian Reproductive Modes
